@@ -1,0 +1,17 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›ÄÍÖ
+L
+java:S1854"7Remove this useless assignment to local variable "sum".(Õ»‡
+=
+java:S1481"(Remove this unused "sum" local variable.(Õ»‡
+V	java:S125"<This block of commented-out lines of code should be removed.(ã…œﬂ˙ˇˇˇˇ
+W
+java:S1854'"ARemove this useless assignment to local variable "notNullString".(ôßµ¢
+H
+java:S1481'"2Remove this unused "notNullString" local variable.(ôßµ¢
+J
+java:S1481."/Remove this unused "nullString" local variable.(∞˛«˘˚ˇˇˇˇ
+E
+java:S14816"*Remove this unused "fFlag" local variable.(ﬁﬂÛË¸ˇˇˇˇ
+?
+java:S1481="*Remove this unused "tFlag" local variable.(ÃÃ˛[

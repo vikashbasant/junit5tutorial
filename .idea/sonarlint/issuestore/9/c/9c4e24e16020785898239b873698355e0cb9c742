@@ -1,0 +1,18 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ€ê…
+E	java:S106"+Replace this use of System.out by a logger.(×È¯ùùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(˜©â‘
+n	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»ú×
+n	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»ú×
+n	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»ú×
+n	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»ú×
+@	java:S106)"+Replace this use of System.out by a logger.(˜©â‘
+@	java:S1065"+Replace this use of System.out by a logger.(˜©â‘
+E	java:S106E"+Replace this use of System.out by a logger.(†ÆÃ¯ûÿÿÿÿ
+E	java:S106S"+Replace this use of System.out by a logger.(ãêèÊùÿÿÿÿ
+M
+java:S1128"7Remove this unused import 'org.junit.jupiter.api.Test'.(Öºˆß
+F
+java:S1144."+Remove this unused private "fruits" method.(ñ¡úşÿÿÿÿ
+A
+java:S11448"+Remove this unused private "values" method.(œ´×˜
